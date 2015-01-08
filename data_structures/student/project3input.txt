@@ -1,0 +1,10 @@
+Camille		   Hayhurst		100	88	88	93	95	100	99
+Tom		   Jones		99	97	50	77	81	94	88
+Terry		   Hatchet		78	77	85	100	90	99	70
+Joe		   Smith		92	91	90	98	95	94	90
+Mike		   Williams		80	85	88	82	84	88	85
+Kim		   Black		68	72	70	70	70	70	70
+Rob		   King			61	58	72	72	0	59	62
+Wendy		   Hill			23	77	45	50	60	70	65
+Brett		   Thorn		72	88	91	85	76	99	91
+Audrey		   Andrews		78	92	88	100	100	100	90
